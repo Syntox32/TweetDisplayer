@@ -1,6 +1,6 @@
 # TweetDisplayer
 
-It's a thing that displays tweets on an Adafruit ![LCD thing](http://i.imgur.com/GFed4jp.png) because phones are too mainstream
+It's a thing that displays tweets on an Adafruit [LCD thing](http://i.imgur.com/GFed4jp.png) because phones are too mainstream
 
 ## Usage
 
